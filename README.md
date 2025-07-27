@@ -94,6 +94,9 @@ ngrok: A tool to expose your local server to the internet so Dialogflow can send
 **click Save**
 
   **5.Enable Webhook for Intents:** For each intent that requires backend logic (order.add, order.remove, order.complete, track.order), scroll down to the Fulfillment section within the intent and toggle on "Enable webhook call for this intent".
+
+  ## Sample Output
+  ![Alt text for your image](https://user-images.githubusercontent.com/your-id/your-repo/your-image.png)
           
           
     
